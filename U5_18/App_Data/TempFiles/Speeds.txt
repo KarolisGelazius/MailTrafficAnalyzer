@@ -1,0 +1,7 @@
+Serveris_Alpha; 5
+Serveris_Beta; 2500
+Serveris_Gamma; 10000
+Serveris_Delta; 1500
+Serveris_Epsilon; 4000
+Serveris_Zeta; 3000
+Serveris_Eta; 2000

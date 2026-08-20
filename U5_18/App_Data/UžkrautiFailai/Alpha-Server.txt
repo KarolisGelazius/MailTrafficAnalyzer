@@ -1,0 +1,5 @@
+2026-05-04; Serveris_Alpha
+08:15:00; siuntejas1@pastas.lt; gavejas1@gmail.com; 15000
+08:45:12; siuntejas2@info.lt; gavejas3@imone.lt; 500000
+14:20:00; siuntejas1@pastas.lt; gavejas4@stud.lt; 2500
+23:55:00; naktine@peleda.lt; rytas@saule.lt; 1000000

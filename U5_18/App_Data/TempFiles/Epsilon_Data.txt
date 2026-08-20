@@ -1,0 +1,3 @@
+2026-05-13; Serveris_Epsilon
+07:00:00; rytas@epsilon.lt; darbas@epsilon.lt; 5000
+12:00:00; pietus@epsilon.lt; virtuve@epsilon.lt; 2500

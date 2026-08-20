@@ -1,0 +1,5 @@
+2026-05-04; Serveris_Gamma
+08:00:00; admin@gamma.lt; user1@gamma.lt; 500000
+08:59:59; user2@gamma.lt; user3@gamma.lt; 1200000
+11:15:00; info@imone.com; pagalba@gamma.lt; 10000
+15:00:00; newsletter@gamma.lt; subscriber@gmail.com; 850000

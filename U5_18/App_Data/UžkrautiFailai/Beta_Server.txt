@@ -1,0 +1,4 @@
+2026-05-04; Serveris_Beta
+09:00:00; direktorius@imone.lt; visi@imone.lt; 50000
+10:30:15; buhaltere@imone.lt; vmi@vmi.lt; 120000
+10:45:00; direktorius@imone.lt; klientas@gmail.com; 30000

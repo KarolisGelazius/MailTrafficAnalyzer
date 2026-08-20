@@ -1,0 +1,3 @@
+2026-05-12; Serveris_Delta
+01:20:00; robotas@delta.lt; log@delta.lt; 200
+01:25:00; robotas@delta.lt; backup@delta.lt; 15000

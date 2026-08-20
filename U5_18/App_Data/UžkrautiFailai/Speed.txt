@@ -1,0 +1,3 @@
+Serveris_Alpha; 5000
+Serveris_Beta; 2000
+Serveris_Gamma; 10000
